@@ -1,0 +1,24 @@
+{
+  "name": "rust-all-the-things",
+  "version": "1.0.0",
+  "description": "Snippets to use rust-inspired constructs to other languages",
+  "homepage": "https://github.com/thomas-god/rust-all-the-things#readme",
+  "bugs": {
+    "url": "https://github.com/thomas-god/rust-all-the-things/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-god/rust-all-the-things.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.7"
+  }
+}
