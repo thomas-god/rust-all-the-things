@@ -15,10 +15,14 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "check": "tsc"
   },
   "devDependencies": {
     "typescript": "^5.8.2",
     "vitest": "^3.0.7"
+  },
+  "dependencies": {
+    "ts-pattern": "^5.6.2"
   }
 }

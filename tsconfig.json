@@ -15,7 +15,8 @@
     "isolatedModules": true,
     "checkJs": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "module": "NodeNext"
   },
   "$schema": "https://json.schemastore.org/tsconfig",
   "_version": "2.0.0"
